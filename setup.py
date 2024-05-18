@@ -13,4 +13,6 @@ setup(
     description="A test package for pydeploy",
     long_description=pre_install(),
     requires=[],
+    author_email="torang7189@gmail.com",
+    packages=["javad_cow"]
 )
